@@ -24,6 +24,7 @@ Evaluación inicial
 \\
 
 ´´´
+<html>
  <!DOCTYPE html>
  <html lang="en">
  <head>
@@ -35,7 +36,9 @@ Evaluación inicial
 
  </body>
  </html>
+<html>
 ´´´
+
 7. ¿Qué es CSS?
 \\ 
 
