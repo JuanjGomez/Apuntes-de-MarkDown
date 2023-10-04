@@ -3,13 +3,13 @@
 Evaluación inicial
 
 1. ¿Qué es una página web?
-\\Es un conjunto de información y archivos accesibles por la red programadas por un lenguaje.
+Es un conjunto de información y archivos accesibles por la red programadas por un lenguaje.
 2. ¿Qué es un sitio web?
-\\Es un espacio virtual donde estan las páginas webs las cuales contienen archivos donde comparten información.
+Es un espacio virtual donde estan las páginas webs las cuales contienen archivos donde comparten información.
 3. ¿Qué es una apliacicón web?
-\\Es un software que comparte 
+Es un software que comparte 
 4. ¿Qué es una herramienta ofimática?
-\\
+
 5. Herramienta de Google:
 
 |Aplicaciones|Visto|
@@ -21,7 +21,7 @@ Evaluación inicial
 |Google Meet| |
 
 6. ¿Qué es HTML?
-\\
+
 
 ´´´
 <html>
@@ -40,6 +40,6 @@ Evaluación inicial
 ´´´
 
 7. ¿Qué es CSS?
-\\ 
+
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
