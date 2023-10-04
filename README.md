@@ -14,11 +14,11 @@ Es un programa que ayuda en colocar información y optimizar funciones diarias e
 
 |Aplicaciones|Visto|
 |----------|-----------------|
-|Google Docs| |
-|Google Slides| |
-|Google Sheets| |
-|Google Calendar| |
-|Google Meet| |
+|Google Docs|https://github.com/JuanjGomez/Apuntes-de-MarkDown/blob/main/google-docs-trucos-si-o-si-1200x800.jpg.jpeg|
+|Google Slides|https://github.com/JuanjGomez/Apuntes-de-MarkDown/blob/main/Google_Slides_2020_Logo.svg.png|
+|Google Sheets|https://github.com/JuanjGomez/Apuntes-de-MarkDown/blob/main/images.jpeg|
+|Google Calendar|https://github.com/JuanjGomez/Apuntes-de-MarkDown/blob/main/1366_2000.jpg|
+|Google Meet|https://github.com/JuanjGomez/Apuntes-de-MarkDown/blob/main/GOOGLE-MEET.jpeg|
 
 6. ¿Qué es HTML?
 Es un codigo que se utiliza para estructurar páginas webs.
