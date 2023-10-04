@@ -23,7 +23,7 @@ Es un software que comparte
 6. ¿Qué es HTML?
 
 
-´´´
+```
 <html>
  <!DOCTYPE html>
  <html lang="en">
@@ -37,7 +37,7 @@ Es un software que comparte
  </body>
  </html>
 <html>
-´´´
+```
 
 7. ¿Qué es CSS?
 
